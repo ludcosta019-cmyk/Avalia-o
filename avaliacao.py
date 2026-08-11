@@ -1,3 +1,4 @@
+#Alunos: Elizete Ludemila e Fabricio Pereira
 #avaliação1
 def calcular_tempo_download():
     #float pede quantidade decimal e input pede para o usuario digitar o valor
