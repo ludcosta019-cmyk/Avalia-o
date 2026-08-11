@@ -1,4 +1,4 @@
-#funcao para calculo
+#avaliação1
 def calcular_tempo_download():
     #float pede quantidade decimal e input pede para o usuario digitar o valor
     tamanho = float(input("Digite o tamanho do arquivo (MB): "))
